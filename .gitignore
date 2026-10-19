@@ -1,0 +1,16 @@
+build/
+build_*/
+.pio/
+Debug/
+Release/
+Objects/
+.vscode/
+.idea/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.csv
+!docs/bom.csv
